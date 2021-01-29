@@ -89,7 +89,7 @@ and (min-width:200px) and ( max-width:480px)
 .logo {
 
 	width: 464px;
-	margin: 17px 86px;
+	margin: 17px 68px;
 }	
 .bx-wrapper .bx-controls-direction a {
 	margin: 7px 81px;
@@ -109,7 +109,11 @@ and (min-width:200px) and ( max-width:480px)
 	
 	margin-right: 87px;
 }	
+.social_menu {
 	
+	margin: -9px 43px;
+	
+}	
 	
 	
 	
