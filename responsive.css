@@ -1,0 +1,116 @@
+
+/*======================================
+   responsive for teblet
+========================================*/
+
+@media only screen
+and (min-width:200px) and ( max-width:768px){
+.slicknav_menu {
+	
+	display:block;
+}	
+.container {
+	
+	padding: 0;
+}	
+	
+.nav_manu {
+	
+	display: none;
+}		
+	
+.logo img {
+    width: 80%;
+}	
+.logo {
+	
+	width: 330px;
+
+}	
+
+
+.social_menu ul li a:hover{
+   background:#00ACEE;
+}
+
+.bx-wrapper .bx-controls-direction a {
+
+	margin: 8px 269px;
+}
+.font, .project, .details {
+
+	width: 21%;
+	
+}
+
+
+
+
+
+	
+	
+}
+
+
+
+
+
+
+/*======================================
+   responsive for mobile
+========================================*/
+
+@media only screen
+and (min-width:200px) and ( max-width:480px)
+
+{
+	
+.slicknav_menu {
+	
+	display:block;
+}	
+.nav_manu {
+	
+	display: none;
+}	
+
+.logo img {
+    width: 50%;
+}	
+	
+.container {
+	
+	padding: 0;
+}	
+	
+.headersection {
+	height: 210px;
+}	
+.logo {
+
+	width: 464px;
+	margin: 17px 86px;
+}	
+.bx-wrapper .bx-controls-direction a {
+	margin: 7px 81px;
+}	
+	
+.font, .project, .details {
+	width: 100%;
+	margin-top: 15px;
+}	
+	
+.search {
+	
+	margin-right: 45px;
+}	
+	
+.copyright h5 {
+	
+	margin-right: 87px;
+}	
+	
+	
+	
+	
+}
